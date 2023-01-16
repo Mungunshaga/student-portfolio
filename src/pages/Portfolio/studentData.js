@@ -13,11 +13,11 @@ export const studentData = [
   },
   {
     name: "Мөнхтөр",
-    portfolioUrl: "",
+    portfolioUrl: "https://first-bmunkhtur.vercel.app/ ",
   },
   {
     name: "Мөнхзул",
-    portfolioUrl: "",
+    portfolioUrl: "https://my-portfolio-rouge-xi.vercel.app/",
   },
   {
     name: "Намсрайдорж",
@@ -25,7 +25,7 @@ export const studentData = [
   },
   {
     name: "Мөнхцэцэг",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-munkhtsetseg.vercel.app/",
   },
   {
     name: "Жамбалсүрэн",
@@ -37,15 +37,15 @@ export const studentData = [
   },
   {
     name: "Отончимэг",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-otgoo.vercel.app/",
   },
   {
     name: "Түшиг",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-tushig.vercel.app/",
   },
   {
     name: "Баттамир",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-battamir.vercel.app/",
   },
   {
     name: "Саруулбилэгт",
@@ -61,18 +61,18 @@ export const studentData = [
   },
   {
     name: "Дуулга",
-    portfolioUrl: "",
+    portfolioUrl: "https://protfolio-duulga.vercel.app/",
   },
   {
     name: "Ашид",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolia-ashid.vercel.app/",
   },
   {
     name: "Ганхөлөг",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-gankhulug.vercel.app/",
   },
   {
     name: "Энхтүвшин",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-black-eight-86.vercel.app/",
   },
 ];
