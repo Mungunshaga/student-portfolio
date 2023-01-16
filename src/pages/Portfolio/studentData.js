@@ -33,7 +33,7 @@ export const studentData = [
   },
   {
     name: "Нямдорж",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-nyamdorj.vercel.app/",
   },
   {
     name: "Отончимэг",
