@@ -19,6 +19,12 @@
     cursor: pointer;
     background: linear-gradient(#f5e3e6, #d9e4f5);
   }
+  .StudentCardName {
+    text-decoration: none;
+    &:hover {
+      color: #7fa7e2;
+    }
+  }
 }
 .Qr {
   width: 40%;

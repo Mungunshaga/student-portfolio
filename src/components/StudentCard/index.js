@@ -12,7 +12,12 @@ const StudentCard = ({ student }) => {
   return (
     <div className={styles.StudentCard}>
       <QRCode size={100} value={student.portfolioUrl} className={styles.Qr} />
-      <p>{student.name}</p>
+      <a
+        href={student.portfolioUrl}
+        target="_blank"
+        className={styles.StudentCardName}>
+        {student.name}
+      </a>
     </div>
   );
 };
