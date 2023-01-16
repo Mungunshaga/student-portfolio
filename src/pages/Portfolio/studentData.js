@@ -1,11 +1,11 @@
 export const studentData = [
   {
     name: "Ангараг",
-    portfolioUrl: "https://github.com/pinecone-studio/pinecone-studio",
+    portfolioUrl: "https://protofolia-angarag.vercel.app/",
   },
   {
     name: "Билгүүн-Эрх",
-    portfolioUrl: "",
+    portfolioUrl: "https://portfolio-eko-omega.vercel.app/",
   },
   {
     name: "Дөлгөөн",
