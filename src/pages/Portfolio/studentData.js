@@ -29,7 +29,7 @@ export const studentData = [
   },
   {
     name: "Жамбалсүрэн",
-    portfolioUrl: "",
+    portfolioUrl: "https://node-js-dusky.vercel.app/",
   },
   {
     name: "Нямдорж",
