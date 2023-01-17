@@ -1,7 +1,8 @@
 export const studentData = [
   {
     name: "Ангараг",
-    portfolioUrl: "https://protofolia-angarag.vercel.app/",
+    portfolioUrl:
+      "https://protofolia-angarag-iotlq0r5n-angaragm89-gmailcom.vercel.app/",
   },
   {
     name: "Билгүүн-Эрх",
