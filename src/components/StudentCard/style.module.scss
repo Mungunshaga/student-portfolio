@@ -75,3 +75,14 @@
         var(--clr-border) 75%
       );
 }
+@media screen and(max-width:767px) {
+  .StudentCard {
+    width: calc(90% - 20px);
+  }
+}
+
+@media (min-width: 768px) and( max-width:992px) {
+  .StudentCard {
+    width: calc(50% - 20px);
+  }
+}
